@@ -1,7 +1,7 @@
-# Goal: Answer the following questions?
+# Goal: Introduction to Databases and React
 
 
-(What are databases?)[https://www.geeksforgeeks.org/types-of-databases/ ]
+[What are databases?](https://www.geeksforgeeks.org/types-of-databases/ )
 
 no 
 
