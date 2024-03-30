@@ -1,11 +1,11 @@
 # Goal: Introduction to Databases and React
 
 
-[What are databases?](https://www.geeksforgeeks.org/types-of-databases/ )
+### [What are databases?](https://www.geeksforgeeks.org/types-of-databases/ )
 
-no 
 
-What type of databases are there and their differences?
+
+### What type of databases are there and their differences?
 
 |Relational           |      Similarities         | Non Relational     |
 |---------------------|---------------------------|--------------------------|
@@ -14,6 +14,6 @@ What type of databases are there and their differences?
 
 
 
-[Using psycopg2 to connect to PostgreSQL](https://www.freecodecamp.org/news/postgresql-in-python/)
+### [Using psycopg2 to connect to PostgreSQL](https://www.freecodecamp.org/news/postgresql-in-python/)
 
 
